@@ -15,7 +15,7 @@
   <h2>DemoVideo uploaded to see the implementation</h2>
 
   <h2>Project Submitted By</h2>
-   <h3>Abinav                  - 21z203 (abhinav0603)</h3>
+   <h3>Abhinav D               - 21z203 (abhinav0603)</h3>
    <h3>Anbukkumar P K          - 21z208 (ak2167)</h3>
    <h3>Arulpathi A             - 21z209 (ArulpathiA)</h3>
    <h3>Kavin Dev               - 21z224 (kavinDEV15)</h3>
