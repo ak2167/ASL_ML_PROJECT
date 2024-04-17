@@ -17,8 +17,8 @@
   <h2>Project Submitted By</h2>
    <h3>Abinav                  - 21z203 (abhinav0603)</h3>
    <h3>Anbukkumar P K          - 21z208 (ak2167)</h3>
-   <h3>Arulpathi A             - 21z209 </h3>
-   <h3>Kavin Dev               - 21z224 (KavinDEV15)</h3>
+   <h3>Arulpathi A             - 21z209 (arulpathiA)</h3>
+   <h3>Kavin Dev               - 21z224 (kavinDEV15)</h3>
    <h3>Rohith Sundharamurthy   - 21z244</h3>
    <h3>Sharan S                - 21z254</h3>
   
